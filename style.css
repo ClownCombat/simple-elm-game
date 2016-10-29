@@ -1,0 +1,27 @@
+body {
+    background-color: skyblue;
+}
+
+.outer-container {
+    border: 1px dashed black;
+    display: inline-block;
+    margin: 0px;
+}
+
+.row {
+    border: 2px solid skyblue;
+    margin: 0;
+}
+
+.field {
+    padding: 5px;
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+    background-color: chocolate;
+    font-weight: 600;
+    margin: 0px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 22px;
+}
